@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@walletconnect/ethereum-provider": "^2.9.2",
+    "@walletconnect/modal": "^2.6.1"
+  }
+}
